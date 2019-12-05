@@ -1,2 +1,0 @@
-# AgroKart
-Created with CodeSandbox
